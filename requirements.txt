@@ -1,0 +1,28 @@
+# --- Core Libraries ---
+chromadb
+fastapi
+litellm
+nltk
+numpy
+openai
+pandas
+pickle-mixin
+pydantic
+PyMuPDF
+python-dotenv
+rank-bm25
+requests
+scikit-learn
+streamlit
+tiktoken
+typing-extensions
+uvicorn
+
+# --- Machine Learning & NLP ---
+sentence-transformers
+spacy
+torch
+transformers
+
+# --- Spacy Model (install this way to get the specific version) ---
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
